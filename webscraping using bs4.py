@@ -9,5 +9,5 @@ uclient.close()
 page_soup =soup(page_html,"html.parser")
 #grabing list of all states
  containers=page_soup.findAll("div",{"class":"style1"})
- 
+ #complete this code
 
